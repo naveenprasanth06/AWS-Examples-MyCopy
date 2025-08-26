@@ -59,6 +59,4 @@ This repository contains real-world examples across multiple AWS services:
 - AWS CDK projects  
 - CloudFormation templates  
 
----
 
-## 📁 Repository Structure
